@@ -1,0 +1,184 @@
+[
+  {
+    "id": "aavedao.eth",
+    "name": "Aave DAO",
+    "proposalsCount": 987,
+    "followersCount": 157626,
+    "network": "1"
+  },
+  {
+    "id": "arbitrumfoundation.eth",
+    "name": "Arbitrum DAO",
+    "proposalsCount": 423,
+    "followersCount": 323636,
+    "network": "42161"
+  },
+  {
+    "id": "radiantcapital.eth",
+    "name": "Radiant Capital",
+    "proposalsCount": 57,
+    "followersCount": 28775,
+    "network": "42161"
+  },
+  {
+    "id": "hop.eth",
+    "name": "Hop",
+    "proposalsCount": 61,
+    "followersCount": 22172,
+    "network": "1"
+  },
+  {
+    "id": "opcollective.eth",
+    "name": "Optimism Collective",
+    "proposalsCount": 93,
+    "followersCount": 204020,
+    "network": "10"
+  },
+  {
+    "id": "safe.eth",
+    "name": "SafeDAO",
+    "proposalsCount": 56,
+    "followersCount": 17750,
+    "network": "1"
+  },
+  {
+    "id": "metislayer2.eth",
+    "name": "Metis",
+    "proposalsCount": 294,
+    "followersCount": 26070,
+    "network": "1088"
+  },
+  {
+    "id": "apecoin.eth",
+    "name": "ApeCoin DAO",
+    "proposalsCount": 327,
+    "followersCount": 36331,
+    "network": "1"
+  },
+  {
+    "id": "stgdao.eth",
+    "name": "Stargate DAO",
+    "proposalsCount": 155,
+    "followersCount": 921353,
+    "network": "1"
+  },
+  {
+    "id": "cow.eth",
+    "name": "CoW DAO",
+    "proposalsCount": 90,
+    "followersCount": 7363,
+    "network": "1"
+  },
+  {
+    "id": "venus-xvs.eth",
+    "name": "Venus Protocol",
+    "proposalsCount": 189,
+    "followersCount": 829,
+    "network": "56"
+  },
+  {
+    "id": "kleros.eth",
+    "name": "Kleros",
+    "proposalsCount": 41,
+    "followersCount": 258,
+    "network": "1"
+  },
+  {
+    "id": "dydxgov.eth",
+    "name": "dYdX",
+    "proposalsCount": 63,
+    "followersCount": 24170,
+    "network": "1"
+  },
+  {
+    "id": "balancer.eth",
+    "name": "Balancer",
+    "proposalsCount": 1079,
+    "followersCount": 36617,
+    "network": "1"
+  },
+  {
+    "id": "shapeshiftdao.eth",
+    "name": "ShapeShift",
+    "proposalsCount": 255,
+    "followersCount": 6653,
+    "network": "1"
+  },
+  {
+    "id": "1inch.eth",
+    "name": "1inch Network",
+    "proposalsCount": 108,
+    "followersCount": 13749,
+    "network": "1"
+  },
+  {
+    "id": "sushigov.eth",
+    "name": "Sushi",
+    "proposalsCount": 233,
+    "followersCount": 61239,
+    "network": "1"
+  },
+  {
+    "id": "curve.eth",
+    "name": "Curve Finance",
+    "proposalsCount": 203,
+    "followersCount": 32968,
+    "network": "1"
+  },
+  {
+    "id": "gitcoindao.eth",
+    "name": "Gitcoin",
+    "proposalsCount": 185,
+    "followersCount": 150512,
+    "network": "1"
+  },
+  {
+    "id": "snapshot.dcl.eth",
+    "name": "Decentraland",
+    "proposalsCount": 2850,
+    "followersCount": 34970,
+    "network": "1"
+  },
+  {
+    "id": "uniswapgovernance.eth",
+    "name": "Uniswap",
+    "proposalsCount": 199,
+    "followersCount": 125293,
+    "network": "1"
+  },
+  {
+    "id": "ens.eth",
+    "name": "ENS",
+    "proposalsCount": 98,
+    "followersCount": 143091,
+    "network": "1"
+  },
+  {
+    "id": "olympusdao.eth",
+    "name": "OlympusDAO",
+    "proposalsCount": 317,
+    "followersCount": 27201,
+    "network": "1"
+  },
+  {
+    "id": "pooltogether.eth",
+    "name": "PoolTogether",
+    "proposalsCount": 38,
+    "followersCount": 5227,
+    "network": "1"
+  },
+  {
+    "id": "lido-snapshot.eth",
+    "name": "Lido",
+    "proposalsCount": 423,
+    "followersCount": 32695,
+    "network": "1"
+  },
+  {
+    "id": "frax.eth",
+    "name": "Frax",
+    "proposalsCount": 521,
+    "followersCount": 4639,
+    "network": "252"
+  }
+]

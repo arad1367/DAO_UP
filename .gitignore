@@ -1,0 +1,13 @@
+Results/
+results_for_paper.zip
+*.zip
+dao_env/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db
+Data/raw/proposals.jsonl
+Data/raw/votes_top.jsonl
