@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DAO_UP: Voting-power concentration and radical proposals in DAOs
 
 Replication code and data for the research paper **"Decentralized in name? Voting-power concentration, pivotal voters and the fate of radical proposals in DAOs"** (under review).
@@ -115,3 +116,6 @@ The paper is under review. Citation details will be added after publication.
 ## Contact
 
 Pejman Ebrahimi, University of Liechtenstein: pejman.ebrahimi@uni.li
+=======
+# DAO_UP
+>>>>>>> 40089f43ef464d946844d09d7f0262942571b985
