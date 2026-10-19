@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pejman-ebrahimi-4a60151a7/)
+[![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co/arad1367)
+[![University](https://img.shields.io/badge/University-00205B?style=for-the-badge&logo=academia&logoColor=white)](https://www.uni.li/pejman.ebrahimi?set_language=en)
+
 # DAO_UP: Voting-power concentration and radical proposals in DAOs
 
 Replication code and data for the research paper **"Decentralized in name? Voting-power concentration, pivotal voters and the fate of radical proposals in DAOs"** (under review).
@@ -115,7 +118,4 @@ The paper is under review. Citation details will be added after publication.
 
 ## Contact
 
-Pejman Ebrahimi, University of Liechtenstein: pejman.ebrahimi@uni.li
-=======
-# DAO_UP
->>>>>>> 40089f43ef464d946844d09d7f0262942571b985
+# Pejman Ebrahimi, University of Liechtenstein: pejman.ebrahimi@uni.li
